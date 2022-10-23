@@ -3,7 +3,7 @@
 
 ## Description
 
-This project was created for the week 1 challenge of my coding bootcamp. The goal of this challenge is to create a webpage that meets accessibility standards, display semantic elements, create logical structures with independent styling and positioning, view images with accessible alt attributes, sequence heading attributes and concisely describe the title.
+This project was created for the Week 1 HTML, CSS and Git challenge of my coding bootcamp. The goal of this challenge is to create a webpage that meets accessibility standards, display semantic elements, create logical structures with independent styling and positioning, view images with accessible alt attributes, sequence heading attributes and concisely describe the title. The code have been refactored to reflect this. 
 
 ## Installation
 N/A
